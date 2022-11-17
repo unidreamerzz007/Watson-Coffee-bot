@@ -1,3 +1,3 @@
-# Watson-Coffee-bot
+# Watson-Coffee-chatbot
 Watson Assistant
 
